@@ -1,8 +1,6 @@
-<img src="/home/rajabala/Desktop/ML-pipeline/Docs/earthquake.jpg">
+<img src="../Docs/earthquake.jpg">
 
 ## Problem Satement:
-
-
 Every year The National Earthquake Information Center (NEIC) records an average of 20,000 earthquakes all around to world. This number is fairly huge, but we can infer from that in order to understand more that is huge, averagely 50 earthquake occured in each day
 
 
