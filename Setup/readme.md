@@ -1,6 +1,6 @@
 # Setting up Jupyter  Lab on a Cloud Instance
 
-<img src="./Docs/archietecture.png">
+<img src="../Docs/archietecture.png">
 
 ## 1. Spin up a Cloud Instance
 
