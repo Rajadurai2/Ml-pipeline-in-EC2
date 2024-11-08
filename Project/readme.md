@@ -16,7 +16,7 @@ Dataset can be download from kaggle
 https://www.kaggle.com/datasets/mullerismail/richters-predictor-modeling-earthquake-damage/data
 ```
 
-## Scripts
+## Notebooks
 
 - **[Data-modeling.ipynb](Data-modeling.ipynb)**: This Python script implements Data processing,analysing and train models
 
